@@ -10,7 +10,7 @@ Globalize builds on the [I18n API in Ruby on Rails](http://guides.rubyonrails.or
 to add model translations to ActiveRecord models.
 
 ## Requirements
-
+This fork works with rails 5.0.1
 * ActiveRecord >= 4.2.0 (see below for installation with ActiveRecord 3.x)
 * I18n
 
